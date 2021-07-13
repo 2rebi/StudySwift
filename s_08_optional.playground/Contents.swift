@@ -37,7 +37,6 @@ case .some(let value):
     print("Value is \(value)")
 }
 
-
 //옵셔널 값 추출
 
 var optStr: String? = "not nil"

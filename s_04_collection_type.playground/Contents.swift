@@ -7,7 +7,7 @@ import Swift
 //Dictionary - 키와 값의 쌍으로 이루어진 컬렉션(Map, HashMap(java), c#은 키워드 동일)
 //Set - 순서가 없고, 값이 유일한 컬렉션 중복 값을 배제
 
-//MARK: - Array
+// MARK: - Array
 
 // 빈 Int Array 생성
 var integers: Array<Int> = Array<Int>()
